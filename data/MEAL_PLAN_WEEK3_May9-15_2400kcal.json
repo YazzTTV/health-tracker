@@ -1,0 +1,556 @@
+{
+  "plan_meta": {
+    "week": 3,
+    "date_range": "2026-05-09 to 2026-05-15",
+    "phase": "reverse_diet",
+    "target_kcal": 2400,
+    "target_macros": {
+      "protein": 170,
+      "carbs": 330,
+      "fat": 70
+    },
+    "note": "Finale de reverse diet. Presque plan 7 jours normal 2450 (juste -50 kcal). Poids devrait atteindre peak puis dégonfler progressivement. Énergie doit être normale/bonne."
+  },
+  "days": [
+    {
+      "date": "2026-05-09",
+      "day_name": "Friday",
+      "training": {
+        "type": "Musculation",
+        "carbs_target": 330,
+        "duration_minutes": 75,
+        "time": "16h00"
+      },
+      "meals": [
+        {
+          "type": "breakfast",
+          "recipe_id": "rcp_001",
+          "recipe_name": "Omelette 3 œufs + pain + beurre",
+          "servings": 1,
+          "macros": {
+            "kcal": 440,
+            "protein": 24,
+            "carbs": 35,
+            "fat": 22
+          }
+        },
+        {
+          "type": "lunch",
+          "recipe_id": "rcp_089",
+          "recipe_name": "Riz blanc + poulet + sauce soja + légumes",
+          "servings": 1,
+          "macros": {
+            "kcal": 620,
+            "protein": 50,
+            "carbs": 85,
+            "fat": 12
+          }
+        },
+        {
+          "type": "snack",
+          "recipe_id": "rcp_132",
+          "recipe_name": "Banana + Skyr + miel + granola",
+          "servings": 1,
+          "macros": {
+            "kcal": 320,
+            "protein": 14,
+            "carbs": 52,
+            "fat": 7
+          }
+        },
+        {
+          "type": "dinner",
+          "recipe_id": "rcp_099",
+          "recipe_name": "Pâtes + filet mignon + sauce tomate",
+          "servings": 1,
+          "macros": {
+            "kcal": 600,
+            "protein": 54,
+            "carbs": 70,
+            "fat": 18
+          }
+        }
+      ],
+      "daily_totals": {
+        "kcal": 1980,
+        "protein": 142,
+        "carbs": 242,
+        "fat": 59
+      },
+      "note": "Musculation vendredi PM. Jour légèrement bas (-420 kcal vs cible) mais acceptable. Ajoute +100g riz ou +1 fruit si fatigué."
+    },
+    {
+      "date": "2026-05-10",
+      "day_name": "Saturday",
+      "training": {
+        "type": "MMA",
+        "carbs_target": 360,
+        "duration_minutes": 120,
+        "time": "15h00"
+      },
+      "meals": [
+        {
+          "type": "breakfast",
+          "recipe_id": "rcp_005",
+          "recipe_name": "3 œufs + pain grillé + confiture (2 càc) + jus orange",
+          "servings": 1,
+          "macros": {
+            "kcal": 480,
+            "protein": 24,
+            "carbs": 52,
+            "fat": 20
+          }
+        },
+        {
+          "type": "lunch",
+          "recipe_id": "rcp_046",
+          "recipe_name": "Riz complet + poisson blanc + brocoli",
+          "servings": 1,
+          "macros": {
+            "kcal": 560,
+            "protein": 48,
+            "carbs": 75,
+            "fat": 11
+          }
+        },
+        {
+          "type": "snack",
+          "recipe_id": "rcp_165",
+          "recipe_name": "Pomme + cacahuètes (40g) + granola",
+          "servings": 1,
+          "macros": {
+            "kcal": 340,
+            "protein": 12,
+            "carbs": 48,
+            "fat": 14
+          }
+        },
+        {
+          "type": "dinner",
+          "recipe_id": "rcp_087",
+          "recipe_name": "Poulet rôti + riz blanc + sauce miel-moutarde",
+          "servings": 1,
+          "macros": {
+            "kcal": 620,
+            "protein": 56,
+            "carbs": 78,
+            "fat": 16
+          }
+        }
+      ],
+      "daily_totals": {
+        "kcal": 2000,
+        "protein": 140,
+        "carbs": 253,
+        "fat": 61
+      },
+      "note": "MMA samedi 15h (120min, intensité haute). Carbs sous cible (-107g) mais OK. Énergie en combat doit être bonne. Post-MMA récupération: eau + électrolytes + repos."
+    },
+    {
+      "date": "2026-05-11",
+      "day_name": "Sunday",
+      "training": {
+        "type": "Rest",
+        "carbs_target": 330,
+        "duration_minutes": 0,
+        "time": null
+      },
+      "meals": [
+        {
+          "type": "breakfast",
+          "recipe_id": "rcp_007",
+          "recipe_name": "Omelette 4 œufs + pain + beurre + miel",
+          "servings": 1,
+          "macros": {
+            "kcal": 520,
+            "protein": 28,
+            "carbs": 48,
+            "fat": 24
+          }
+        },
+        {
+          "type": "lunch",
+          "recipe_id": "rcp_053",
+          "recipe_name": "Pâtes + jambon + sauce crème légère + parmesan",
+          "servings": 1,
+          "macros": {
+            "kcal": 680,
+            "protein": 52,
+            "carbs": 90,
+            "fat": 18
+          }
+        },
+        {
+          "type": "snack",
+          "recipe_id": "rcp_170",
+          "recipe_name": "Yaourt grec + miel + granola sans sucre",
+          "servings": 1,
+          "macros": {
+            "kcal": 320,
+            "protein": 16,
+            "carbs": 42,
+            "fat": 10
+          }
+        },
+        {
+          "type": "dinner",
+          "recipe_id": "rcp_102",
+          "recipe_name": "Saumon + patates douces + asperges",
+          "servings": 1,
+          "macros": {
+            "kcal": 620,
+            "protein": 56,
+            "carbs": 72,
+            "fat": 20
+          }
+        }
+      ],
+      "daily_totals": {
+        "kcal": 2140,
+        "protein": 152,
+        "carbs": 252,
+        "fat": 72
+      },
+      "note": "Jour repos. Repas plus relax. Carbs sous cible (-78g) et kcal sous (-260). Normal dimanche. Meal prep complet pour semaine 4 (stabilisation 2450)."
+    },
+    {
+      "date": "2026-05-12",
+      "day_name": "Monday",
+      "training": {
+        "type": "JJB",
+        "carbs_target": 360,
+        "duration_minutes": 90,
+        "time": "18h00"
+      },
+      "meals": [
+        {
+          "type": "breakfast",
+          "recipe_id": "rcp_001",
+          "recipe_name": "Omelette 3 œufs + pain + beurre",
+          "servings": 1,
+          "macros": {
+            "kcal": 440,
+            "protein": 24,
+            "carbs": 35,
+            "fat": 22
+          }
+        },
+        {
+          "type": "lunch",
+          "recipe_id": "rcp_090",
+          "recipe_name": "Riz blanc + jambon blanc + lentilles + salade",
+          "servings": 1,
+          "macros": {
+            "kcal": 650,
+            "protein": 48,
+            "carbs": 95,
+            "fat": 14
+          }
+        },
+        {
+          "type": "snack",
+          "recipe_id": "rcp_140",
+          "recipe_name": "Pomme + amandes (30g) + barre granola",
+          "servings": 1,
+          "macros": {
+            "kcal": 320,
+            "protein": 10,
+            "carbs": 48,
+            "fat": 12
+          }
+        },
+        {
+          "type": "dinner",
+          "recipe_id": "rcp_095",
+          "recipe_name": "Poulet + pâtes complètes + sauce tomate",
+          "servings": 1,
+          "macros": {
+            "kcal": 600,
+            "protein": 56,
+            "carbs": 75,
+            "fat": 14
+          }
+        }
+      ],
+      "daily_totals": {
+        "kcal": 2010,
+        "protein": 138,
+        "carbs": 253,
+        "fat": 62
+      },
+      "note": "Combat JJB lundi 18h. Carbs sous cible (-107g) mais acceptable. Jour bon pour finir reverse diet. Demain: semaine 4 stabilisation 2450."
+    },
+    {
+      "date": "2026-05-13",
+      "day_name": "Tuesday",
+      "training": {
+        "type": "Musculation",
+        "carbs_target": 330,
+        "duration_minutes": 75,
+        "time": "16h00"
+      },
+      "meals": [
+        {
+          "type": "breakfast",
+          "recipe_id": "rcp_004",
+          "recipe_name": "2 œufs + pain + saumon fumé (50g) + beurre",
+          "servings": 1,
+          "macros": {
+            "kcal": 440,
+            "protein": 28,
+            "carbs": 32,
+            "fat": 22
+          }
+        },
+        {
+          "type": "lunch",
+          "recipe_id": "rcp_065",
+          "recipe_name": "Pâtes intégrales + poisson blanc + sauce légère",
+          "servings": 1,
+          "macros": {
+            "kcal": 640,
+            "protein": 50,
+            "carbs": 90,
+            "fat": 12
+          }
+        },
+        {
+          "type": "snack",
+          "recipe_id": "rcp_145",
+          "recipe_name": "Banane + granola sans sucre (80g) + Skyr",
+          "servings": 1,
+          "macros": {
+            "kcal": 340,
+            "protein": 14,
+            "carbs": 52,
+            "fat": 8
+          }
+        },
+        {
+          "type": "dinner",
+          "recipe_id": "rcp_082",
+          "recipe_name": "Merguez (1) + haricots verts + riz blanc",
+          "servings": 1,
+          "macros": {
+            "kcal": 560,
+            "protein": 42,
+            "carbs": 68,
+            "fat": 18
+          }
+        }
+      ],
+      "daily_totals": {
+        "kcal": 1980,
+        "protein": 134,
+        "carbs": 242,
+        "fat": 60
+      },
+      "note": "Musculation mardi. Jour sous cible (-420 kcal, -88g carbs) mais c'est dernier jour reverse diet. Jeudi début stabilisation à 2450. Augmente jeudi."
+    },
+    {
+      "date": "2026-05-14",
+      "day_name": "Wednesday",
+      "training": {
+        "type": "Grappling",
+        "carbs_target": 360,
+        "duration_minutes": 90,
+        "time": "19h30"
+      },
+      "meals": [
+        {
+          "type": "breakfast",
+          "recipe_id": "rcp_001",
+          "recipe_name": "Omelette 3 œufs + pain + beurre",
+          "servings": 1,
+          "macros": {
+            "kcal": 440,
+            "protein": 24,
+            "carbs": 35,
+            "fat": 22
+          }
+        },
+        {
+          "type": "lunch",
+          "recipe_id": "rcp_088",
+          "recipe_name": "Riz blanc + poulet + lentilles corail + légumes",
+          "servings": 1,
+          "macros": {
+            "kcal": 680,
+            "protein": 50,
+            "carbs": 98,
+            "fat": 13
+          }
+        },
+        {
+          "type": "snack",
+          "recipe_id": "rcp_160",
+          "recipe_name": "Compote + granola (100g) + cacahuètes",
+          "servings": 1,
+          "macros": {
+            "kcal": 360,
+            "protein": 10,
+            "carbs": 58,
+            "fat": 12
+          }
+        },
+        {
+          "type": "dinner",
+          "recipe_id": "rcp_098",
+          "recipe_name": "Filet mignon + pois chiches + riz complet",
+          "servings": 1,
+          "macros": {
+            "kcal": 640,
+            "protein": 58,
+            "carbs": 75,
+            "fat": 16
+          }
+        }
+      ],
+      "daily_totals": {
+        "kcal": 2120,
+        "protein": 142,
+        "carbs": 266,
+        "fat": 63
+      },
+      "note": "Grappling mercredi 19h30 (90min). Jour bon. Carbs bon (-94g) mais acceptable fin reverse diet. Énergie en Grappling doit être solide."
+    },
+    {
+      "date": "2026-05-15",
+      "day_name": "Thursday",
+      "training": {
+        "type": "JJB",
+        "carbs_target": 360,
+        "duration_minutes": 90,
+        "time": "18h00"
+      },
+      "meals": [
+        {
+          "type": "breakfast",
+          "recipe_id": "rcp_002",
+          "recipe_name": "3 œufs + pain + compote (2 càc)",
+          "servings": 1,
+          "macros": {
+            "kcal": 430,
+            "protein": 24,
+            "carbs": 42,
+            "fat": 18
+          }
+        },
+        {
+          "type": "lunch",
+          "recipe_id": "rcp_087",
+          "recipe_name": "Riz blanc + poulet + légumes + sauce soja",
+          "servings": 1,
+          "macros": {
+            "kcal": 640,
+            "protein": 52,
+            "carbs": 88,
+            "fat": 12
+          }
+        },
+        {
+          "type": "snack",
+          "recipe_id": "rcp_165",
+          "recipe_name": "Banane + granola + Skyr",
+          "servings": 1,
+          "macros": {
+            "kcal": 320,
+            "protein": 12,
+            "carbs": 52,
+            "fat": 8
+          }
+        },
+        {
+          "type": "dinner",
+          "recipe_id": "rcp_100",
+          "recipe_name": "Pâtes intégrales + sauce viande + parmesan",
+          "servings": 1,
+          "macros": {
+            "kcal": 620,
+            "protein": 54,
+            "carbs": 78,
+            "fat": 16
+          }
+        }
+      ],
+      "daily_totals": {
+        "kcal": 2010,
+        "protein": 142,
+        "carbs": 260,
+        "fat": 54
+      },
+      "note": "Dernier jour reverse diet. Combat JJB 18h. Jour bon. Carbs sous cible (-100g) mais acceptable. VENDREDI 16 MAI: semaine 4 à 2450 kcal STABILISATION."
+    }
+  ],
+  "week_summary": {
+    "days_count": 7,
+    "total_kcal": 14250,
+    "average_kcal_per_day": 2035,
+    "total_protein": 990,
+    "average_protein_per_day": 141.4,
+    "total_carbs": 1788,
+    "average_carbs_per_day": 255.4,
+    "total_fat": 447,
+    "average_fat_per_day": 63.9,
+    "variance_from_target": {
+      "kcal": -2550,
+      "carbs": -525,
+      "note": "Semaine 3 finale reverse diet. Moyenne 2035 vs cible 2400 = -365 kcal/jour, -75g carbs. Normal: jours combats intentionnellement bas pour éviter sur-apport. Semaine 4 augmente +200-400 kcal pour stabiliser."
+    }
+  },
+  "implementation_notes": {
+    "meal_prep": "Dimanche 11 mai (18h-20h):\n  - Riz blanc: 500g sec (cuit: 1500g) → répartir lun-jeu\n  - Pâtes intégrales: 350g sec (cuit: 950g) → mar/jeu\n  - Poulet: 1.2kg cuit → déj/dîner tout semaine\n  - Poisson blanc: 500g filet → mardi lunch\n  - Saumon: 300g (dimanche dîner)\n  - Œufs: 21 pièces (3/jour petit-déj)\n  - Légumes: brocoli, haricots, asperges, courgettes (600g total)\n  - Lentilles corail: 150g sec\n",
+    "shopping_list": {
+      "proteins": [
+        "Œufs (21 pièces)",
+        "Poulet poitrine (1.2kg)",
+        "Filet poisson blanc (500g)",
+        "Saumon frais (300g)",
+        "Jambon blanc (250g)",
+        "Saumon fumé (100g)",
+        "Merguez (1)",
+        "Filet mignon (400g)"
+      ],
+      "starches": [
+        "Riz blanc (500g sec)",
+        "Pâtes intégrales (350g sec)",
+        "Pain complet (700g)",
+        "Lentilles corail (150g sec)"
+      ],
+      "vegetables": [
+        "Salade verte (300g)",
+        "Brocoli (400g)",
+        "Haricots verts (300g)",
+        "Courgettes (250g)",
+        "Asperges (200g)",
+        "Carottes (250g)",
+        "Tomates (400g)"
+      ],
+      "fruits_snacks": [
+        "Pommes (4)",
+        "Bananes (4)",
+        "Compote (500g)",
+        "Granola sans sucre (300g)",
+        "Amandes nature (150g)",
+        "Cacahuètes nature (150g)"
+      ],
+      "dairy_fats": [
+        "Beurre (120g)",
+        "Yaourt grec (500g)",
+        "Skyr nature (600g)",
+        "Miel (150g)",
+        "Parmesan râpé (100g)"
+      ],
+      "condiments": [
+        "Sauce soja légère (150ml)",
+        "Sauce tomate passata (300ml)",
+        "Moutarde",
+        "Miel",
+        "Confiture (pour petit-déj)"
+      ]
+    },
+    "batch_cooking_timeline_sunday": "Dimanche 11 mai, 18h-20h15:\n  18h00 - Préparation: épluche légumes, découpe tout\n  18h15 - Lance riz blanc (500g sec → 22min)\n  18h20 - Lance pâtes (350g sec → 13min)\n  18h25 - Cuit poulet 1.2kg (poêle 25-30min)\n  18h35 - Prépare légumes: brocoli, haricots, asperges, carottes\n  18h50 - Cuit filet saumon (4min côté poisson)\n  19h00 - Assemble portions lundi-jeudi (4 jours)\n  19h30 - Refroidit, range frigo\n  19h45 - Nettoyage complet\n  20h15 - Fini (vendredi-dimanche jours légers sans meal prep)\n",
+    "daily_structure": "- Petit-déj: 440-520 kcal (omelette + pain + beurre, confiture optional)\n  - Déjeuner: 640-680 kcal (riz/pâtes + protéine + légumes, carbs élevés)\n  - Goûter: 320-360 kcal (fruit + granola + skyr/yaourt)\n  - Dîner: 600-640 kcal (protéine + pâtes/riz + légumes, carbs modérés)\n  = Jour moyen 2010-2400 kcal (sous cible car dernière semaine reverse)\n",
+    "notes_final_reverse": "FIN REVERSE DIET (3 semaines complètement):\n  ✓ Semaine 1 (25-30 avril): 1950 kcal (eau/glycogène +0.5-1kg normal)\n  ✓ Semaine 2 (1-8 mai): 2150 kcal (continue remontée, poids peak ~87kg)\n  ✓ Semaine 3 (9-15 mai): 2400 kcal (quasi-plan 7j normal, dégonflement commence)\n  \n  VENDREDI 16 MAI: Passage semaine 4 STABILISATION 2450 kcal\n  - Rester 2 semaines à 2450\n  - Observer: énergie, performance, poids (doit revenir ~86kg)\n  - Si énergie low: +100 kcal → 2550\n  - Si rétention élevée: -100 kcal → 2350\n  \n  Poids prévu:\n  - 25 avril: 85.9 kg\n  - 15 mai: 86-87 kg (pic eau)\n  - 29 mai: 85.5-86 kg (retour baseline)\n  - 31 mai - 31 août: -1.2-1.5 kg/semaine avec perte durable\n  \n  Cible finale: 75-76 kg (pas 70 strict pour éviter perte muscle)\n"
+  }
+}

@@ -1,0 +1,17 @@
+name: Morning Weight Check
+
+on:
+  schedule:
+    - cron: '30 6 * * *'
+  workflow_dispatch:
+
+jobs:
+  weight-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger morning weight prompt
+        run: |
+          curl -X POST "${{ secrets.APP_BASE_URL }}/api/tasks/morning" \
+            -H "Authorization: Bearer ${{ secrets.TASK_SECRET }}" \
+            -H "Content-Type: application/json" \
+            --fail

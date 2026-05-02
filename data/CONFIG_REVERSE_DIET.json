@@ -1,0 +1,130 @@
+{
+  "profile": {
+    "name": "Noah",
+    "age": 21,
+    "height_cm": 175,
+    "start_weight_kg": 85.9,
+    "target_weight_kg": 70,
+    "goal": "Fat loss with muscle preservation and combat performance",
+    "timezone": "Europe/Paris"
+  },
+  "phases": {
+    "reverse_diet_week1": {
+      "dates": "2026-04-25 to 2026-04-30",
+      "target_kcal": 1950,
+      "macros": {
+        "protein": 170,
+        "carbs": 250,
+        "fat": 60
+      }
+    },
+    "reverse_diet_week2": {
+      "dates": "2026-05-01 to 2026-05-08",
+      "target_kcal": 2150,
+      "macros": {
+        "protein": 170,
+        "carbs": 290,
+        "fat": 65
+      }
+    },
+    "reverse_diet_week3": {
+      "dates": "2026-05-09 to 2026-05-15",
+      "target_kcal": 2400,
+      "macros": {
+        "protein": 170,
+        "carbs": 330,
+        "fat": 70
+      }
+    },
+    "stabilization_week4": {
+      "dates": "2026-05-16 to 2026-05-22",
+      "target_kcal": 2450,
+      "macros": {
+        "protein": 170,
+        "carbs": 340,
+        "fat": 75
+      }
+    },
+    "stabilization_week5": {
+      "dates": "2026-05-23 to 2026-05-29",
+      "target_kcal": 2450,
+      "macros": {
+        "protein": 170,
+        "carbs": 340,
+        "fat": 75
+      }
+    },
+    "fat_loss_phase": {
+      "dates": "2026-05-30 to 2026-08-31",
+      "target_kcal": 2450,
+      "macros": {
+        "protein": 170,
+        "carbs": 340,
+        "fat": 75
+      }
+    }
+  },
+  "training_schedule": {
+    "monday": {
+      "type": "JJB",
+      "time": "19h00-21h00",
+      "duration_minutes": 120,
+      "carbs_multiplier": 1.1,
+      "carbs_target": 320
+    },
+    "tuesday": {
+      "type": "Musculation",
+      "time": "TBD",
+      "duration_minutes": 75,
+      "carbs_multiplier": 1.0,
+      "carbs_target": 290
+    },
+    "wednesday": {
+      "type": "Grappling",
+      "time": "19h00-21h00",
+      "duration_minutes": 120,
+      "carbs_multiplier": 1.1,
+      "carbs_target": 320
+    },
+    "thursday": {
+      "type": "JJB",
+      "time": "19h00-21h00",
+      "duration_minutes": 120,
+      "carbs_multiplier": 1.1,
+      "carbs_target": 320
+    },
+    "friday": {
+      "type": "Musculation",
+      "time": "TBD",
+      "duration_minutes": 75,
+      "carbs_multiplier": 1.0,
+      "carbs_target": 290
+    },
+    "saturday": {
+      "type": "MMA",
+      "time": "18h00-20h00",
+      "duration_minutes": 120,
+      "carbs_multiplier": 1.15,
+      "carbs_target": 330
+    },
+    "sunday": {
+      "type": "Musculation",
+      "time": "TBD",
+      "duration_minutes": 75,
+      "carbs_multiplier": 1.0,
+      "carbs_target": 290
+    }
+  },
+  "preferences": {
+    "no_repetition_days": 3,
+    "avoid": [
+      "lait de vache liquide"
+    ],
+    "allow": [
+      "fromage",
+      "yaourt",
+      "lait amande",
+      "lait coco"
+    ]
+  }
+}

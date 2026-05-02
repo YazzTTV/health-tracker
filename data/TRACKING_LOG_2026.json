@@ -1,0 +1,1110 @@
+{
+  "tracking": [
+    {
+      "date": "2026-02-04",
+      "weight_kg": 92.8,
+      "weight_time": "08:30",
+      "calories_estimated": 2500,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Base"
+    },
+    {
+      "date": "2026-02-05",
+      "weight_kg": 92.8,
+      "weight_time": "08:30",
+      "calories_estimated": 2060,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Stable"
+    },
+    {
+      "date": "2026-02-06",
+      "weight_kg": 92.2,
+      "weight_time": "08:30",
+      "calories_estimated": 2900,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Surplus"
+    },
+    {
+      "date": "2026-02-07",
+      "weight_kg": 92.8,
+      "weight_time": "08:30",
+      "calories_estimated": 2000,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Stable"
+    },
+    {
+      "date": "2026-02-08",
+      "weight_kg": 92.6,
+      "weight_time": "08:30",
+      "calories_estimated": 2000,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Stable"
+    },
+    {
+      "date": "2026-02-09",
+      "weight_kg": 92.6,
+      "weight_time": "08:30",
+      "calories_estimated": 1800,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Déficit"
+    },
+    {
+      "date": "2026-02-10",
+      "weight_kg": 92.3,
+      "weight_time": "08:30",
+      "calories_estimated": 2500,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Surplus"
+    },
+    {
+      "date": "2026-02-11",
+      "weight_kg": 92.4,
+      "weight_time": "08:30",
+      "calories_estimated": 1800,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Déficit"
+    },
+    {
+      "date": "2026-02-12",
+      "weight_kg": 92.5,
+      "weight_time": "08:30",
+      "calories_estimated": 2100,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Maintien"
+    },
+    {
+      "date": "2026-02-13",
+      "weight_kg": 92.6,
+      "weight_time": "08:30",
+      "calories_estimated": 2600,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Cantine"
+    },
+    {
+      "date": "2026-02-14",
+      "weight_kg": 93,
+      "weight_time": "08:30",
+      "calories_estimated": 2200,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Fondue"
+    },
+    {
+      "date": "2026-02-15",
+      "calories_estimated": 1600,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Fast food"
+    },
+    {
+      "date": "2026-02-19",
+      "weight_kg": 91.8,
+      "weight_time": "08:30",
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Reprise"
+    },
+    {
+      "date": "2026-02-20",
+      "weight_kg": 92.4,
+      "weight_time": "08:30",
+      "calories_estimated": 1050,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Déficit agressif"
+    },
+    {
+      "date": "2026-02-21",
+      "calories_estimated": 1155,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Lentilles"
+    },
+    {
+      "date": "2026-02-22",
+      "weight_kg": 92.1,
+      "weight_time": "08:30",
+      "calories_estimated": 1300,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Dimanche"
+    },
+    {
+      "date": "2026-02-28",
+      "weight_kg": 90.8,
+      "weight_time": "08:30",
+      "calories_estimated": 1300,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Descente"
+    },
+    {
+      "date": "2026-03-01",
+      "weight_kg": 90.1,
+      "weight_time": "08:30",
+      "calories_estimated": 2515,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Recharge"
+    },
+    {
+      "date": "2026-03-02",
+      "calories_estimated": 1465,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Moyen"
+    },
+    {
+      "date": "2026-03-03",
+      "weight_kg": 90.9,
+      "weight_time": "08:30",
+      "calories_estimated": 1015,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Déficit"
+    },
+    {
+      "date": "2026-03-04",
+      "calories_estimated": 905,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Déficit fort"
+    },
+    {
+      "date": "2026-03-05",
+      "weight_kg": 90.6,
+      "weight_time": "08:30",
+      "calories_estimated": 945,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Déficit"
+    },
+    {
+      "date": "2026-03-06",
+      "weight_kg": 90.2,
+      "weight_time": "08:30",
+      "calories_estimated": 1085,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Déficit"
+    },
+    {
+      "date": "2026-03-07",
+      "weight_kg": 90.2,
+      "weight_time": "08:30",
+      "calories_estimated": 1040,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Déficit"
+    },
+    {
+      "date": "2026-03-08",
+      "weight_kg": 89.4,
+      "weight_time": "08:30",
+      "calories_estimated": 1320,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Pizza"
+    },
+    {
+      "date": "2026-03-09",
+      "calories_estimated": 340,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Partiel"
+    },
+    {
+      "date": "2026-03-10",
+      "calories_estimated": 910,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Poke"
+    },
+    {
+      "date": "2026-03-11",
+      "weight_kg": 89.6,
+      "weight_time": "08:30",
+      "calories_estimated": 1425,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Stable"
+    },
+    {
+      "date": "2026-03-12",
+      "weight_kg": 89,
+      "weight_time": "08:30",
+      "calories_estimated": 1715,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Recharge"
+    },
+    {
+      "date": "2026-03-14",
+      "weight_kg": 88.7,
+      "weight_time": "08:30",
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Balance corrigée"
+    },
+    {
+      "date": "2026-03-17",
+      "weight_kg": 88.9,
+      "weight_time": "08:30",
+      "calories_estimated": 1510,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Stable"
+    },
+    {
+      "date": "2026-03-18",
+      "weight_kg": 89.2,
+      "weight_time": "08:30",
+      "calories_estimated": 1525,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Rétention"
+    },
+    {
+      "date": "2026-03-19",
+      "weight_kg": 88.3,
+      "weight_time": "08:30",
+      "calories_estimated": 1330,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Burger"
+    },
+    {
+      "date": "2026-03-21",
+      "weight_kg": 88.7,
+      "weight_time": "08:30",
+      "calories_estimated": 1350,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Sushi"
+    },
+    {
+      "date": "2026-03-23",
+      "weight_kg": 89,
+      "weight_time": "08:30",
+      "calories_estimated": 1200,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Déficit"
+    },
+    {
+      "date": "2026-03-24",
+      "weight_kg": 88.1,
+      "weight_time": "08:30",
+      "calories_estimated": 1300,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Déficit"
+    },
+    {
+      "date": "2026-03-25",
+      "weight_kg": 87.6,
+      "weight_time": "08:30",
+      "calories_estimated": 1000,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Déficit fort"
+    },
+    {
+      "date": "2026-03-26",
+      "weight_kg": 88,
+      "weight_time": "08:30",
+      "calories_estimated": 1200,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Rétention"
+    },
+    {
+      "date": "2026-03-27",
+      "weight_kg": 87.4,
+      "weight_time": "08:30",
+      "calories_estimated": 1350,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Stable"
+    },
+    {
+      "date": "2026-03-28",
+      "weight_kg": 87.3,
+      "weight_time": "08:30",
+      "calories_estimated": 1150,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Déficit"
+    },
+    {
+      "date": "2026-03-29",
+      "weight_kg": 87.2,
+      "weight_time": "08:30",
+      "calories_estimated": 1350,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Optimal"
+    },
+    {
+      "date": "2026-03-30",
+      "weight_kg": 87.4,
+      "weight_time": "08:30",
+      "calories_estimated": 1200,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Stable"
+    },
+    {
+      "date": "2026-03-31",
+      "weight_kg": 87.6,
+      "weight_time": "08:30",
+      "calories_estimated": 500,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Partiel"
+    },
+    {
+      "date": "2026-04-03",
+      "calories_estimated": 250,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Aucun glucide, repas poisson + haricots, environ 190 kcal pour le repas et 240 kcal max sur la journée"
+    },
+    {
+      "date": "2026-04-04",
+      "calories_estimated": 250,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Suite water cut, hydratation réduite"
+    },
+    {
+      "date": "2026-04-05",
+      "weight_kg": 83.9,
+      "weight_time": "08:30",
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Avec tenue, avant compétition | Poids très bas lié au water cut, restriction glucides et déshydratation"
+    },
+    {
+      "date": "2026-04-06",
+      "weight_kg": 85,
+      "weight_time": "08:30",
+      "calories_estimated": 1550,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Matin | Rebond normal post-compétition : eau, glycogène, digestion"
+    },
+    {
+      "date": "2026-04-07",
+      "calories_estimated": 1600,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Matin œufs, midi salade pâtes + saucisse, soir léger type skyr/légumes"
+    },
+    {
+      "date": "2026-04-08",
+      "weight_kg": 85.7,
+      "weight_time": "08:30",
+      "calories_estimated": 1650,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Matin | Poids officiel noté le matin"
+    },
+    {
+      "date": "2026-04-09",
+      "weight_kg": 85.8,
+      "weight_time": "08:30",
+      "calories_estimated": 1500,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Matin | Stabilisation haute post-cut"
+    },
+    {
+      "date": "2026-04-10",
+      "calories_estimated": 1600,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Poke bowl midi, dîner poulet + salade + skyr"
+    },
+    {
+      "date": "2026-04-11",
+      "calories_estimated": 1600,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Matin 3 œufs, midi pâtes/jambon/pignons, goûter jambon, soir quenelle + poisson blanc + mayo/ketchup"
+    },
+    {
+      "date": "2026-04-12",
+      "weight_kg": 85.2,
+      "weight_time": "08:30",
+      "calories_estimated": 1800,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Matin, balance différente | À comparer avec prudence car balance différente"
+    },
+    {
+      "date": "2026-04-13",
+      "weight_kg": 85.1,
+      "weight_time": "08:30",
+      "calories_estimated": 1775,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Matin, même balance que le 12/04 | Baisse malgré gros repas de famille la veille"
+    },
+    {
+      "date": "2026-04-14",
+      "calories_estimated": 1775,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Matin œuf + pain + saumon fumé, midi restaurant avec croquetas + poulet/riz/légumes + dessert, soir raclette + fraises"
+    },
+    {
+      "date": "2026-04-15",
+      "weight_kg": 86.1,
+      "weight_time": "08:30",
+      "calories_estimated": 1650,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Matin | Après raclette la veille : rétention probable"
+    },
+    {
+      "date": "2026-04-16",
+      "weight_kg": 86,
+      "weight_time": "08:30",
+      "calories_estimated": 1700,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Matin | Début de dégonflement post-raclette"
+    },
+    {
+      "date": "2026-04-17",
+      "weight_kg": 86.1,
+      "weight_time": "08:30",
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Matin | Stable, probablement rétention liée aux glucides/sel"
+    },
+    {
+      "date": "2026-04-18",
+      "calories_estimated": 1400,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Midi 2 œufs + 1 merguez + yaourt/crème de marron + jus d’orange, soir jambon + haricots verts + skyr"
+    },
+    {
+      "date": "2026-04-20",
+      "weight_kg": 86.7,
+      "weight_time": "08:30",
+      "calories_estimated": 1600,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Matin | Rebond important après alcool/gros repas/vomissement : eau + digestion"
+    },
+    {
+      "date": "2026-04-21",
+      "weight_kg": 85.5,
+      "weight_time": "08:30",
+      "calories_estimated": 1750,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Matin | L'utilisateur a écrit “21/03”, mais le contexte indique 21/04"
+    },
+    {
+      "date": "2026-04-22",
+      "weight_kg": 85.4,
+      "weight_time": "08:30",
+      "calories_estimated": 1750,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Matin | Descente propre"
+    },
+    {
+      "date": "2026-04-23",
+      "weight_kg": 85.7,
+      "weight_time": "08:30",
+      "calories_estimated": 1750,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Matin | Petit rebond probable : sodium, fibres, digestion"
+    },
+    {
+      "date": "2026-04-24",
+      "weight_kg": 85.8,
+      "weight_time": "08:30",
+      "calories_estimated": 1750,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Matin | Variation normale"
+    },
+    {
+      "date": "2026-04-25",
+      "weight_kg": 85.9,
+      "weight_time": "08:30",
+      "calories_estimated": 1800,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Matin | Légère hausse, probablement rétention / contenu digestif"
+    },
+    {
+      "date": "2026-04-26",
+      "calories_estimated": 1900,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      },
+      "notes": "Midi jambon blanc + salade lentilles corail/tomate/concombre/oignon/feta + compote. Grappling 1h30 le matin + MMA 18h–20h, besoin de remonter autour de 1900–2000 kcal possible pour récupération"
+    },
+    {
+      "date": "2026-04-30",
+      "weight_kg": 85.5,
+      "weight_time": "08:30",
+      "calories_estimated": 2000,
+      "macros_actual": {
+        "protein": null,
+        "carbs": null,
+        "fat": null
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 1,
+        "intensity": "moderate"
+      }
+    }
+  ]
+}

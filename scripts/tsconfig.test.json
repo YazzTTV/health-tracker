@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "es2022",
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "outDir": "/tmp/mptest",
+    "rootDir": "..",
+    "isolatedModules": false,
+    "allowSyntheticDefaultImports": true,
+    "strict": false,
+    "types": ["node"]
+  },
+  "include": ["./test-meal-planner.ts", "../src/lib/mealPlanner.ts", "../src/lib/normalize.ts", "../src/types/health.ts"]
+}

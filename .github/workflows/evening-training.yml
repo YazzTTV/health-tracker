@@ -1,0 +1,17 @@
+name: Evening Training Feedback
+
+on:
+  schedule:
+    - cron: '0 20 * * 1-6'
+  workflow_dispatch:
+
+jobs:
+  training-feedback:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger evening training prompt
+        run: |
+          curl -X POST "${{ secrets.APP_BASE_URL }}/api/tasks/evening" \
+            -H "Authorization: Bearer ${{ secrets.TASK_SECRET }}" \
+            -H "Content-Type: application/json" \
+            --fail
