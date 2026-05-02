@@ -1108,8 +1108,7 @@
     },
     {
       "date": "2026-05-02",
-      "weight_kg": 85.4,
-      "weight_time": "08:30",
+      "calories_estimated": 2000,
       "macros_actual": {
         "protein": null,
         "carbs": null,
