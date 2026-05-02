@@ -1,4 +1,4 @@
-import type { BaseBlock, MealPlan, MealPlanDay, MealPlanMeal, Recipe, ReverseConfig, TrainingEntry } from '../types/health'
+import type { BaseBlock, MealPlan, MealPlanDay, MealPlanMeal, Recipe, ReverseConfig, TrainingEntry } from '../types/health.js'
 
 export type MacroSet = { kcal: number; protein: number; carbs: number; fat: number }
 type MacroLocks = { protein: boolean; carbs: boolean; fat: boolean }
@@ -138,7 +138,7 @@ export function generateMealPlan(
   return {
     plan_meta: {
       week: `generated-${options.weekStart}`,
-      date_range: `${planDays[0].date} to ${planDays.at(-1)?.date}`,
+      date_range: `${planDays[0].date} to ${planDays[planDays.length - 1]?.date}`,
       phase: 'generated',
       target_kcal: options.targetKcal,
       target_macros: options.targetMacros,

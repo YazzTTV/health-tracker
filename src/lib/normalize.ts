@@ -1,5 +1,5 @@
-import type { IngredientLine, Recipe } from '../types/health'
-import { parseIngredientList } from './parseIngredient'
+import type { IngredientLine, Recipe } from '../types/health.js'
+import { parseIngredientList } from './parseIngredient.js'
 
 type RawRecipe = {
   id?: string

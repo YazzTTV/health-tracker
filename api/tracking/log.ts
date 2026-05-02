@@ -1,7 +1,7 @@
 import type { VercelRequest, VercelResponse } from '@vercel/node'
-import { json, requireMethod } from '../_lib/http'
-import { readJsonFile, writeJsonFile } from '../_lib/github'
-import { trackingEntrySchema } from '../_lib/schemas'
+import { json, requireMethod } from '../_lib/http.js'
+import { readJsonFile, writeJsonFile } from '../_lib/github.js'
+import { trackingEntrySchema } from '../_lib/schemas.js'
 
 type TrackingLog = { tracking: Array<{ date: string; [key: string]: unknown }> }
 

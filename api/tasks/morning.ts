@@ -1,5 +1,5 @@
 import type { VercelRequest, VercelResponse } from '@vercel/node'
-import { json, requireMethod, requireTaskSecret } from '../_lib/http'
+import { json, requireMethod, requireTaskSecret } from '../_lib/http.js'
 
 async function postSlack(text: string) {
   if (!process.env.SLACK_WEBHOOK_URL) return { skipped: true }

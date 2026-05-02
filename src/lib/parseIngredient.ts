@@ -1,4 +1,4 @@
-import type { IngredientLine } from '../types/health'
+import type { IngredientLine } from '../types/health.js'
 
 const FRACTION_MAP: Record<string, number> = {
   '1/2': 0.5, '½': 0.5,

@@ -1,8 +1,8 @@
 import type { VercelRequest, VercelResponse } from '@vercel/node'
-import { json } from './_lib/http'
-import { readJsonFile, writeJsonFile } from './_lib/github'
-import { recipeCreateSchema } from './_lib/schemas'
-import { parseIngredientList } from '../src/lib/parseIngredient'
+import { json } from './_lib/http.js'
+import { readJsonFile, writeJsonFile } from './_lib/github.js'
+import { recipeCreateSchema } from './_lib/schemas.js'
+import { parseIngredientList } from '../src/lib/parseIngredient.js'
 
 type RecipeDatabase = {
   metadata?: { [key: string]: unknown }

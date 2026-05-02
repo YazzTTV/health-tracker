@@ -1,6 +1,6 @@
 import type { VercelRequest, VercelResponse } from '@vercel/node'
-import { json, requireMethod } from '../_lib/http'
-import { readJsonFile } from '../_lib/github'
+import { json, requireMethod } from '../_lib/http.js'
+import { readJsonFile } from '../_lib/github.js'
 
 export default async function handler(req: VercelRequest, res: VercelResponse) {
   if (!requireMethod(req, res, 'GET')) return

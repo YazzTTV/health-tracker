@@ -1,10 +1,10 @@
 import type { VercelRequest, VercelResponse } from '@vercel/node'
-import { json, requireMethod } from '../_lib/http'
-import { readJsonFile, writeJsonFile } from '../_lib/github'
-import { mealPlanGenerateSchema } from '../_lib/schemas'
-import { generateMealPlan } from '../../src/lib/mealPlanner'
-import { normalizeRecipe, type RawRecipe } from '../../src/lib/normalize'
-import type { BaseBlock, MealPlan } from '../../src/types/health'
+import { json, requireMethod } from '../_lib/http.js'
+import { readJsonFile, writeJsonFile } from '../_lib/github.js'
+import { mealPlanGenerateSchema } from '../_lib/schemas.js'
+import { generateMealPlan } from '../../src/lib/mealPlanner.js'
+import { normalizeRecipe, type RawRecipe } from '../../src/lib/normalize.js'
+import type { BaseBlock, MealPlan } from '../../src/types/health.js'
 
 type RawMacros = {
   calories_kcal?: number | null

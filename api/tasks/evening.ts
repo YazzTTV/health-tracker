@@ -1,7 +1,7 @@
 import type { VercelRequest, VercelResponse } from '@vercel/node'
 import { format } from 'date-fns'
-import { json, requireMethod, requireTaskSecret } from '../_lib/http'
-import { readJsonFile } from '../_lib/github'
+import { json, requireMethod, requireTaskSecret } from '../_lib/http.js'
+import { readJsonFile } from '../_lib/github.js'
 
 type Config = { training_schedule: Record<string, { type: string; time?: string }> }
 

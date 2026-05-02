@@ -1,6 +1,6 @@
 import type { VercelRequest, VercelResponse } from '@vercel/node'
-import { json } from './_lib/http'
-import { readJsonFile, writeJsonFile } from './_lib/github'
+import { json } from './_lib/http.js'
+import { readJsonFile, writeJsonFile } from './_lib/github.js'
 
 type MealPlan = {
   plan_meta?: {
