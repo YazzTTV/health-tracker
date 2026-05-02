@@ -2,7 +2,7 @@ import type { VercelRequest, VercelResponse } from '@vercel/node'
 import { json, requireMethod } from '../_lib/http.js'
 import { readJsonFile, writeJsonFile } from '../_lib/github.js'
 import { mealPlanGenerateSchema } from '../_lib/schemas.js'
-import { generateMealPlan } from '../../src/lib/mealPlanner.js'
+import { generateMealPlan, type MealPlanOptions } from '../../src/lib/mealPlanner.js'
 import { normalizeRecipe, type RawRecipe } from '../../src/lib/normalize.js'
 import type { BaseBlock, MealPlan } from '../../src/types/health.js'
 
@@ -55,7 +55,7 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
         carbCycling: preferences?.carb_cycling ?? false,
         carbCyclingDelta: preferences?.carb_cycling_delta ?? 0,
         reliabilityFilter: preferences?.reliability ?? ['sourced', 'partial', 'estimated'],
-        trainingSchedule: parsed.data.training_schedule ?? {},
+        trainingSchedule: (parsed.data.training_schedule ?? {}) as MealPlanOptions['trainingSchedule'],
         avoidRecipeIds: collectRecentRecipeIds(planDatabase.plans, preferences?.no_repetition_days ?? 21),
       },
       recipesRaw.map((recipe) => normalizeRecipe(recipe)),
