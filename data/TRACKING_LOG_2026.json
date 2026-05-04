@@ -1119,6 +1119,22 @@
         "duration_minutes": 0,
         "intensity": "moderate"
       }
+    },
+    {
+      "date": "2026-05-04",
+      "weight_kg": 85.4,
+      "weight_time": "08:30",
+      "calories_estimated": 2165,
+      "macros_actual": {
+        "protein": 180,
+        "carbs": 0,
+        "fat": 0
+      },
+      "training": {
+        "type": "Rest",
+        "duration_minutes": 0,
+        "intensity": "moderate"
+      }
     }
   ]
 }
